@@ -4,12 +4,12 @@ This project implements an image captioning model using PyTorch, based on the Fl
 
 ## Table of Contents
 
-- [Model Architecture](https://www.google.com/search?q=%23model-architecture)
-- [Dataset](https://www.google.com/search?q=%23dataset)
-- [Results](https://www.google.com/search?q=%23results)
-- [Setup and Installation](https://www.google.com/search?q=%23setup-and-installation)
-- [Usage](https://www.google.com/search?q=%23usage)
-- [Directory Structure](https://www.google.com/search?q=%23directory-structure)
+- Model Architecture
+- Dataset
+- Results
+- Setup and Installation
+- Usage
+- Directory Structure
 
 ## Model Architecture
 
